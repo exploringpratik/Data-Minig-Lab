@@ -1,0 +1,13 @@
+Plot entropy H, G, E for 2 -valued system (Binary)
+
+2. Calculate eukilideian disatnce, manhaten distance, meancausi disatance
+consine similarity, jakard similarity
+
+Explain the pyhto function used
+keep the plot, describe the plot what they are showing (what does entropy represent, gini represent)
+
+lab report in IEEE format
+
+result, discussion, conclusion 
+
+MAX 4 page

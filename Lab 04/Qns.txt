@@ -1,0 +1,8 @@
+Sigmoid
+Tanh
+Relu
+Leaky Relu
+
+Plot with derevative
+
+Excel with or and and gate, 0.01 and 0.02 learning factor
